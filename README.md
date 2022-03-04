@@ -13,7 +13,7 @@
 
  #
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![LcsZro GitHub stats](https://github-readme-stats.vercel.app/api?username=LcsZro&show_icons=true&theme=dracula)
 
 #### Tecnologias que uso no meu dia
 
