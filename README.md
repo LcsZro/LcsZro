@@ -12,12 +12,16 @@
 
  #
 
+<div align="center">
+
 ![LcsZro GitHub stats](https://github-readme-stats.vercel.app/api?username=LcsZro&show_icons=true&theme=dracula)
 
 ![Imagem Computador](https://raw.githubusercontent.com/LcsZro/Imagem/main/computer-illustration.png?token=GHSAT0AAAAAABSBE624QQVB4AJHGNIOKLFQYRDUDLQ)
 
 <div align="center"
 img src="https://desblogada.files.wordpress.co..." width="0px">
+
+</div>
 
 #### Tecnologias que uso no meu dia
 
@@ -29,5 +33,4 @@ img src="https://desblogada.files.wordpress.co..." width="0px">
      <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
      
 </div>
-
 
