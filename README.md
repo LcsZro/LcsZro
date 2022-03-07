@@ -16,7 +16,7 @@
 
 ![LcsZro GitHub stats](https://github-readme-stats.vercel.app/api?username=LcsZro&show_icons=true&theme=dracula)
 
-![Imagem Computador](https://raw.githubusercontent.com/LcsZro/Imagem/main/computer-illustration.png?token=GHSAT0AAAAAABSBE624QQVB4AJHGNIOKLFQYRDUDLQ)
+![Imagem Computador](https://raw.githubusercontent.com/LcsZro/Imagem/main/computer-illustration.png?token=GHSAT0AAAAAABSFPYTAIEEHCU4GRIBJB66WYRF7RBQ)
 
 <div align="center"
 img src="https://desblogada.files.wordpress.co..." width="0px">
