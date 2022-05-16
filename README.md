@@ -5,12 +5,6 @@
 [![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)](link)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](link)
 
-
-### Profissional em  
-[![Counter-Strike](https://img.shields.io/badge/Counter_Strike-000000?style=for-the-badge&logo=counter-strike&logoColor=white)](link)
-
- #
-
 <div align="center">
 
 ![LcsZro GitHub stats](https://github-readme-stats.vercel.app/api?username=LcsZro&show_icons=true&theme=dracula)
