@@ -18,7 +18,6 @@ img src="https://desblogada.files.wordpress.co..." width="0px">
     <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
      <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-     <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
      <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt='Lua'  height='30'
      width='40'/>
     <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt='GitHub'  height='30'
