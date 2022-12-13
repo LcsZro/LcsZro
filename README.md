@@ -18,9 +18,9 @@ img src="https://desblogada.files.wordpress.co..." width="0px">
     <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg">
     <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
      <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt='GitHub'  height='30'
+    <img align='center' alt="tailwind" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt='GitHub'  height='30'
      width='40'/>
-    <img height="30" width="40" src="https://img.icons8.com/color/48/null/vue-js.png"/>
+    <img align="center" alt="vue" height="30" width="40" src="https://img.icons8.com/color/48/null/vue-js.png"/>
 </div>
 
 
