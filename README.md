@@ -20,7 +20,7 @@ img src="https://desblogada.files.wordpress.co..." width="0px">
      <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
     <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt='GitHub'  height='30'
      width='40'/>
-    <img align="center" alt="Js" height="30" width="40" src="https://icons8.com/icon/rY6agKizO9eb/vue-js">
+    <img align="center" alt="Js" height="30" width="40" src="<img src="https://img.icons8.com/color/144/null/vue-js.png"/>">
 </div>
 
 
