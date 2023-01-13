@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LcsZro)](https://github.com/anuraghazra/github-readme-stats)
+[![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LcsZro)](https://github.com/LcsZro/github-readme-stats)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?=LcsZro&layout=compact&langs_count=7&theme=dracula"/>
 
