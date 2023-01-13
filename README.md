@@ -2,9 +2,9 @@
 
 <div align="center">
 
-![LcsZro GitHub stats](https://github-readme-stats.vercel.app/api?username=LcsZro&show_icons=true&theme=dracula)
+[![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LcsZro&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?=LcsZro&layout=compact&langs_count=7&theme=dracula"/>
 
 <div align="center"
 img src="https://desblogada.files.wordpress.co..." width="0px">
