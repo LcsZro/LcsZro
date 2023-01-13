@@ -23,5 +23,6 @@ img src="https://desblogada.files.wordpress.co..." width="0px">
     <img align="center" alt="vue" height="30" width="40" src="https://img.icons8.com/color/48/null/vue-js.png"/>
 </div>
 
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&count_private=true)
 
 
