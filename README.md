@@ -4,7 +4,12 @@
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LcsZro&show_icons=true&theme=radical)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?=LcsZro&layout=compact&langs_count=7&theme=dracula"/>
+<a href="https://github.com/LcsZro/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LcsZro&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/LcsZro/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LcsZro&repo=convoychat" />
+</a>
 
 <div align="center"
 img src="https://desblogada.files.wordpress.co..." width="0px">
