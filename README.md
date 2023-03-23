@@ -4,8 +4,8 @@
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LcsZro&show_icons=true&theme=radical)
     
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/LcsZro/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=LcsZro&repo=github-readme-stats" />
 </a>
 
 <div align="center"
