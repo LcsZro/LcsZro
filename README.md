@@ -3,8 +3,8 @@
 <div align="center">
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LcsZro&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LcsZro&layout=compact&title_color=8E2DE2
+    
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LcsZro&layout=compact)](https://github.com/LcsZro/github-readme-stats)
 
 <div align="center"
 img src="https://desblogada.files.wordpress.co..." width="0px">
