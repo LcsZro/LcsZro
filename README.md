@@ -4,7 +4,7 @@
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=LcsZro&show_icons=true&theme=radical)
     
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LcsZro&layout=compact)](https://github.com/LcsZro/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LcsZro&layout=compact)](https://github.com/LcsZro/github-readme-stats#gh-dark-mode-only)
 
 <div align="center"
 img src="https://desblogada.files.wordpress.co..." width="0px">
