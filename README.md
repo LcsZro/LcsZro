@@ -14,13 +14,16 @@ img src="https://desblogada.files.wordpress.co..." width="0px">
 #### Tecnologias que uso no meu dia
 
 <div style='display: incline_block'><br/>
-    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg">
      <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align='center' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt='GitHub'  height='30'
+    <img align='center' src="https://api.iconify.design/devicon/tailwindcss.svg" alt='Tailwind'  height='30'
      width='40'/>
-    <img align="center" alt="vue" height="30" width="40" src="https://img.icons8.com/color/48/null/vue-js.png"/>
-    <img align="center" alt="vue" height="30" width="40" src="https://code.iconify.design/iconify-icon/1.0.7/iconify-icon.min.js"/>
+    <img align="center" alt="vue" height="30" width="40" src="https://api.iconify.design/logos/vue.svg"/>
+     <img align="center" alt="Laravel" height="30" width="40" src="https://api.iconify.design/logos/laravel.svg"/>
+
 </div>
+
+
+
 
 
 
