@@ -11,9 +11,6 @@ img src="https://desblogada.files.wordpress.co..." width="0px">
 
 </div>
 
-#### Tecnologias que uso no meu dia
-
-
 Olá! Eu sou o random qualquer 🤚
 <div align="center">
 
