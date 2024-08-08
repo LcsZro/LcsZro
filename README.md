@@ -1,4 +1,3 @@
-### Olá! eu sou o random qualquer 🤚
 
 <div align="center">
 
@@ -11,7 +10,6 @@ img src="https://desblogada.files.wordpress.co..." width="0px">
 
 </div>
 
-Olá! Eu sou o random qualquer 🤚
 <div align="center">
 
 </div>
