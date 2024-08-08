@@ -18,7 +18,6 @@ Olá! Eu sou o random qualquer 🤚
 <div align="center">
 
 </div>
-Tecnologias que uso no meu dia
 <div style='display: inline_block; text-align: center'><br/>
     <img align="center" height="30" width="40" src="https://api.iconify.design/devicon/tailwindcss.svg" alt="Tailwind CSS">
     <img align="center" height="30" width="40" src="https://api.iconify.design/logos/vue.svg" alt="Vue.js">
