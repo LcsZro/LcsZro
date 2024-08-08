@@ -24,7 +24,6 @@ Olá! Eu sou o random qualquer 🤚
     <img align="center" height="30" width="40" src="https://api.iconify.design/logos/laravel.svg" alt="Laravel">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker">
     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis">
-    <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Windows_Subsystem_for_Linux_Logo.png" alt="WSL2">
 </div>
 
 
