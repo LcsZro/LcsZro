@@ -14,13 +14,8 @@ img src="https://desblogada.files.wordpress.co..." width="0px">
 #### Tecnologias que uso no meu dia
 
 
-Claro! Vamos atualizar o README para incluir Docker e Redis. Aqui está uma versão aprimorada:
-
 Olá! Eu sou o random qualquer 🤚
 <div align="center">
-
-
-
 
 </div>
 Tecnologias que uso no meu dia
