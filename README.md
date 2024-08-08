@@ -13,13 +13,24 @@ img src="https://desblogada.files.wordpress.co..." width="0px">
 
 #### Tecnologias que uso no meu dia
 
-<div style='display: incline_block'><br/>
-     <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-    <img align='center' src="https://api.iconify.design/devicon/tailwindcss.svg" alt='Tailwind'  height='30'
-     width='40'/>
-    <img align="center" alt="vue" height="30" width="40" src="https://api.iconify.design/logos/vue.svg"/>
-     <img align="center" alt="Laravel" height="30" width="40" src="https://api.iconify.design/logos/laravel.svg"/>
 
+Claro! Vamos atualizar o README para incluir Docker e Redis. Aqui está uma versão aprimorada:
+
+Olá! Eu sou o random qualquer 🤚
+<div align="center">
+
+
+
+
+</div>
+Tecnologias que uso no meu dia
+<div style='display: inline_block; text-align: center'><br/>
+    <img align="center" height="30" width="40" src="https://api.iconify.design/devicon/tailwindcss.svg" alt="Tailwind CSS">
+    <img align="center" height="30" width="40" src="https://api.iconify.design/logos/vue.svg" alt="Vue.js">
+    <img align="center" height="30" width="40" src="https://api.iconify.design/logos/laravel.svg" alt="Laravel">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker">
+    <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="Redis">
+    <img align="center" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Windows_Subsystem_for_Linux_Logo.png" alt="WSL2">
 </div>
 
 
