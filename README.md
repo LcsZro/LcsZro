@@ -60,12 +60,6 @@ class Developer
         <img src="https://img.shields.io/badge/Tailwind-black?style=for-the-badge&logo=tailwind-css&logoColor=white" />
       </td>
     </tr>
-    <tr>
-      <td align="center" bgcolor="black">
-        <img src="https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=docker&logoColor=white" />
-        <img src="https://img.shields.io/badge/Redis-black?style=for-the-badge&logo=redis&logoColor=white" />
-      </td>
-    </tr>
   </table>
 </div>
 
@@ -73,23 +67,11 @@ class Developer
   <img src="https://github-readme-streak-stats.herokuapp.com?user=LcsZro&background=000000&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&border=FFFFFF" width="90%" />
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=LcsZro&theme=chalk&no-frame=false&no-bg=true&column=7&title=Commits,Repositories,Issues,PullRequest,Stars,Followers,MultiLanguage&margin-w=10" width="100%" />
-</div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=LcsZro&style=for-the-badge&color=FFFFFF&label=PROFILE+VIEWS" alt="Profile Views" />
-</div>
 
-<div align="center">
-  <a href="https://github.com/LcsZro">
-    <img src="https://img.shields.io/badge/FOLLOW-black?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=120&section=footer&text=EOF&fontSize=24&animation=fadeIn&fontColor=FFFFFF&fontAlignY=70" width="100%">
-</div>
+
+
 
 <!-- 
   01000011 01001111 01001110 01010100 01010010 01000001 01010011 01010100 00100000
